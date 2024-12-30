@@ -1,7 +1,7 @@
-github_users:
-  - flightvin
+# github_users:
+#   - flightvin
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
   - reimagining-gfs/main-repo
@@ -11,3 +11,4 @@ github_repos:
   - FlightVin/Enhanced-xv6
   - FlightVin/ModuShell
   - FlightVin/SMAI_Implementation
+  - FlightVin/DNA_Project

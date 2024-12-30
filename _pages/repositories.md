@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Adding links to my repositories with cool projects directrly here. 
+description: Adding links to my repositories with cool projects directly here. 
 nav: true
 nav_order: 3
 ---
