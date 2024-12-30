@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-trying-to-teach-freshmen-robotics",
+            },{id: "post-a-project-on-the-gfs",
+      
+        title: "A project on the GFS",
+      
+      description: "Adding exactly-once record append semantics to the Google File System",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/a-project-on-the-gfs/";
+        
+      },
+    },{id: "post-trying-to-teach-freshmen-robotics",
       
         title: "Trying to Teach Freshmen Robotics",
       
