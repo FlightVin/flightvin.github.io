@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - flightvin
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - reimagining-gfs/main-repo
+  - FlightVin/few-software-engineering-projects
+  - flip-flops-in-neural-models/Flip-Flop-Neurons-INCM
+  - FlightVin/Camera-Lidar-Calibration
+  - FlightVin/Enhanced-xv6
+  - FlightVin/ModuShell
+  - FlightVin/SMAI_Implementation
