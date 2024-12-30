@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A project on the GFS
-date: 2024-12-30 20:56:00
+date: 2024-12-29 20:56:00
 description: Adding exactly-once record append semantics to the Google File System
 tags: IIIT systems
 categories: software
