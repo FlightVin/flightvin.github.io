@@ -8,16 +8,8 @@
         "value": "Vineeth Bhat"
       },
       {
-        "name": "Email",
-        "value": "vineeth.bhat@gmail.com"
-      },
-      {
-        "name": "LinkedIn",
-        "value": "https://www.linkedin.com/in/vineethbhat/"
-      },
-      {
-        "name": "GitHub",
-        "value": "https://github.com/FlightVin"
+        "name": "Summary",
+        "value": "Only lists salient headers, please refer to the pdf linked at the top-right of the page for details."
       }
     ]
   },
@@ -43,79 +35,16 @@
         "title": "Intern - Front Office (R&D) Tech Group",
         "institution": "D.E. Shaw and Co.",
         "year": "May 2024 -- June 2024",
-        "description": [
-          "Streamlined high-throughput data applications using Java, Kafka, and Python, boosting testing and debugging efficiency by nearly 2x and enabling faster integration into newer trading systems.",
-          "Engineered one-step local deployment modules, eliminating the need for hours-long remote debugging procedures.",
-          "Accelerated deployment pipelines, reducing initialization from minutes to a single step for three critical applications."
-        ]
       },
       {
         "title": "Undergraduate Researcher - AI Alignment & Robotics Research",
         "institution": "IIIT Hyderabad",
         "year": "Sep 2023 -- Present",
-        "description": [
-          {
-            "title": "AI Alignment",
-            "contents": [
-              "Worked on consistency metrics for AI (LLM) oracles as a SPAR Mentee.",
-              "Developed ground truth prediction questions datasets and correlated our metrics with Brier scores with the aim of seeing whether probability-based consistency serves as a proxy for accuracy.",
-              "Submitted to ICLR (Core A*, ArXiv:2412.18544)"
-            ]
-          },
-          {
-            "title": "Robotics",
-            "contents": [
-              "Working under Prof. K. Madhava Krishna, leveraging computer vision and foundation models to solve robotics tasks.",
-              "Submitted a paper on a novel transformer architecture to IEEE ICRA (Core A*, ArXiv:2409.12002)."
-            ]
-          }
-        ]
       },
       {
-        "title": "Teaching Assistant - Operating Systems & Networks, Computer Graphics",
+        "title": "Undegrad Teaching Assistant - Operating Systems & Networks (2023), Computer Graphics (2024), Software Engineering (2025)",
         "institution": "IIIT Hyderabad",
         "year": "Aug 2023 -- Feb 2024",
-        "description": [
-          "Created assignments and graded exams; designed the final project for OS & Networks (Creating an NFS from scratch)."
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Selected Projects",
-    "type": "time_table",
-    "contents": [
-      {
-        "title": "Software Engineering Projects",
-        "year": "2024",
-        "description": [
-          "Refactored a book management system by integrating design patterns; significantly enhanced code maintainability and improved user experience through a more intuitive interface and streamlined functionality.",
-          "Developed an ML application, 'ModelHub', for model training, testing, and logging, comparing microservices and monolithic architectures. Followed IEEE 42010 standards for architectural decisions."
-        ]
-      },
-      {
-        "title": "Re-imagining the Google File System (GFS)",
-        "year": "2024",
-        "description": [
-          "Implemented the GFS from scratch in Go with exactly-once record-append semantics and benchmarked to show almost linear throughput-latency scaling under high concurrency.",
-          "Engineered a primary-secondary replication model with dynamic recovery mechanisms, including re-replication, stale replica resolution, and automated garbage collection for fault tolerance and high availability."
-        ]
-      },
-      {
-        "title": "Enhanced xv6 Operating System",
-        "year": "2022",
-        "description": [
-          "Integrated and tested multiple CPU scheduling algorithms, including FCFS, PBS, and Multilevel Feedback Queue (MLFQ), to optimize CPU utilization, reduce wait times, and adapt to various process behaviors.",
-          "Added copy-on-write (COW) to delay memory duplication, reducing overhead and improving process creation efficiency."
-        ]
-      },
-      {
-        "title": "Flip Flops in Neural Modeling, a.k.a., FFN",
-        "year": "2024",
-        "description": [
-          "Conducted comparative analyses against LSTM, GRU, and RNN models, demonstrating FFN’s superior memory coherence and resistance to interference in cognitive tasks.",
-          "Explored biologically inspired learning rules like Hebbian learning and STDP, integrating them into FFN to analyze adaptability and memory dynamics."
-        ]
       }
     ]
   },
