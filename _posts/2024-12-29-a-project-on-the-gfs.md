@@ -7,10 +7,10 @@ tags: IIIT systems
 categories: software
 ---
 
-Essentially, I, along with a collaborator, did the following -
+Essentially, I, along with a collaborator ([Mitansh K](https://www.linkedin.com/in/mitansh-kayathwal-888836227/)), did the following -
 
-1. **Localized Implementation:** Implemented pretty much everything that's offered by the GFS inclusing
-    1. Write 
+1. **Localized Implementation:** Implemented pretty much everything that's offered by the Google File System inclusing
+    1. Write
     2. Read
     3. Replication
     4. Record Append
@@ -26,4 +26,4 @@ using a codebase of 7200 LOC in Go. Evidently, we missed out on snapshoting and 
 
 3. **Comprehensive System Analysis:** Validated system performance through extensive benchmarking, demonstrating near-linear scaling in throughput for reads, writes, and appends, while maintaining consistency and reliability.
 
-The implementation could be found [here](https://github.com/reimagining-gfs/main-repo) and thr report [here](https://github.com/reimagining-gfs/main-repo/blob/main/report.pdf).
+The implementation could be found [here](https://github.com/reimagining-gfs/main-repo) and the report [here](https://github.com/reimagining-gfs/main-repo/blob/main/report.pdf).

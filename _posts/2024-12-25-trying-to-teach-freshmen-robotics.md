@@ -9,20 +9,20 @@ categories: robotics
 
 # Introduction
 
-I recently undertook the task of introducing freshmen to robotics. I'll keep updating this as they progress.
+I recently undertook the task of introducing a bunch of freshmen to robotics. I'll keep updating this as they progress.
 
 The following is a summary of my conversations via text using an LLM.
 
 ## Phase 1: Getting Started
 
 ### Introductory Topics:
+
 1. **An Introduction to Abstraction** ([Link](https://www.lesswrong.com/posts/CHSBRLWY5bzZdchFF/a-thorough-introduction-to-abstraction))
 2. **Writing Modular Code** ([Link](https://best-practice-and-impact.github.io/qa-of-code-guidance/modular_code.html))
 3. **Python for Research** ([Link](https://rits.github-pages.ucl.ac.uk/doctoral-programming-intro/)) - Skim the headings to ensure you know the general concepts.
 
-**Estimated Time:** 1-2 days
-
 ### Dual Boot and ROS Installation:
+
 1. Set up dual boot with **Ubuntu 20.04** (make sure the version matches).
 2. Install ROS following the instructions for [**Noetic**](https://wiki.ros.org/noetic/Installation/Ubuntu).
    - If you're adventurous, try Zorin OS. Its installation is similar to Ubuntu.
@@ -34,22 +34,26 @@ The following is a summary of my conversations via text using an LLM.
 **Estimated Time:** 1 day
 
 #### Alternatives to Dual Boot:
+
 - Use a Virtual Machine (VM) as per [this discussion](https://answers.ros.org/question/355252/can-ros-run-smoothly-on-vm/).
 - Avoid WSL as it may not fully support ROS.
 
 ## Phase 2: Starting Off with ROS
 
 ### Fundamental Introduction:
+
 1. Navigate to [The Construct](https://app.theconstruct.ai/courses/) and find the "**ROS Basics in 5 Days**" course (choose either C++ or Python).
    - Note: This course isn't entirely free, but you can access some content for free. It should take about 2 hours.
 
 ### Exploring the Documentation:
+
 1. Familiarize yourself with the official [ROS Noetic documentation](https://wiki.ros.org/noetic).
 2. Read:
    - [Introduction to ROS](https://wiki.ros.org/ROS/Introduction)
    - [Beginner Tutorials](https://wiki.ros.org/ROS/Tutorials): Complete "**1.1 Beginner Level**" and up to "**5 Defining Custom Messages**" in the "1.2 Intermediate Level" section.
 
 ### Key Focus Areas:
+
 - Topics
 - Services
 - Visualization tools (e.g., RViz)
@@ -70,6 +74,7 @@ The following is a summary of my conversations via text using an LLM.
 ## Phase 4: Introducing Machine Learning
 
 ### Essential Reading:
+
 1. [A Short Introduction to Machine Learning](https://www.lesswrong.com/posts/qE73pqxAZmeACsAdF/a-short-introduction-to-machine-learning)
    - I highly recommend this, given my affinity for LessWrong's content.
 2. [Mathematics for Machine Learning](https://mml-book.github.io/)
@@ -80,6 +85,7 @@ The following is a summary of my conversations via text using an LLM.
 - In-depth study: 2 weeks (2 hours daily)
 
 ### Next Steps:
+
 Once you've completed this, reach out to begin with PyTorch. This book forms the foundation for understanding ML, so take it seriously.
 
 And then, I'll get them started off on computer vision and mobile robotics.
