@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "A resume with salient points on my experience and a few projects.",
+        },{id: "nav-resume",
+          title: "resume",
+          description: "With a few salient points on my experience and selected projects (Last Updated - December &#39;24).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
