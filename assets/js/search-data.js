@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-project-on-the-gfs",
+            },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/2024-12-25-trying-to-teach-freshmen-robotics-1/";
+        
+      },
+    },{id: "post-a-project-on-the-gfs",
       
         title: "A project on the GFS",
       
@@ -67,17 +78,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/a-project-on-the-gfs/";
-        
-      },
-    },{id: "post-trying-to-teach-freshmen-robotics",
-      
-        title: "Trying to Teach Freshmen Robotics",
-      
-      description: "My introduction to robotics for a few undergrad freshmen",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/trying-to-teach-freshmen-robotics/";
         
       },
     },{id: "news-a-simple-inline-announcement",
