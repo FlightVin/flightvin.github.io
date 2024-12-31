@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trying to Teach Freshmen Robotics: Weeks 1 to 4
+title: Trying to Teach Freshmen Robotics 1
 date: 2024-12-25 16:40:16
 description: My introduction to robotics for a few undergrad freshmen
 tags: IIIT robotics
