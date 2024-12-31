@@ -3,12 +3,21 @@
 
 repo_description_lines_max: 4
 
-github_repos:
+research_project_repos:
+  - instance-based-loc/instance-based-loc
+  - dpaleka/consistency-forecasting
+
+systems_projects_repos:
   - reimagining-gfs/main-repo
   - FlightVin/few-software-engineering-projects
+  - FlightVin/Enhanced-xv6
+
+ai_project_repos:
   - flip-flops-in-neural-models/Flip-Flop-Neurons-INCM
   - FlightVin/Camera-Lidar-Calibration
-  - FlightVin/Enhanced-xv6
-  - FlightVin/ModuShell
   - FlightVin/SMAI_Implementation
+
+other_tiny_repos:
+  - FlightVin/ModuShell
   - FlightVin/DNA_Project
+  - FlightVin/CSES-bot
