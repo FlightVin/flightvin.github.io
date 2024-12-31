@@ -6,7 +6,7 @@ subtitle: I like fantasy and I try to do CS.
 
 profile:
   align: right
-  image: vin.jpg
+  image: vineeth.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
