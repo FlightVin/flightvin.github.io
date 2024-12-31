@@ -48,12 +48,6 @@ Includes repositories that I've worked on for research work (Robotics, AI Safety
 </div>
 {% endif %}
 
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
 {% if site.data.repositories.systems_projects_repos %}
 
 ## Personal Projects
@@ -69,12 +63,6 @@ Projects revolving around systems - distributed, operating and good old software
 </div>
 {% endif %}
 
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
 {% if site.data.repositories.ai_project_repos %}
 
 ### AI Projects
@@ -86,12 +74,6 @@ On ML and robotics.
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
-
----
-
-{% endfor %}
-{% endif %}
 {% endif %}
 
 {% if site.data.repositories.other_tiny_repos %}
