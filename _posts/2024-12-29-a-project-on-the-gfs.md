@@ -27,3 +27,5 @@ using a codebase of 7200 LOC in Go. Evidently, we missed out on snapshoting and 
 3. **Comprehensive System Analysis:** Validated system performance through extensive benchmarking, demonstrating near-linear scaling in throughput for reads, writes, and appends, while maintaining consistency and reliability.
 
 The implementation could be found [here](https://github.com/reimagining-gfs/main-repo) and the report [here](https://github.com/reimagining-gfs/main-repo/blob/main/report.pdf).
+
+Any thoughts/improvements (especially on the GitHub issues) would be welcome.
