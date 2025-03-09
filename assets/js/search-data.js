@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-project-on-the-gfs",
+            },{id: "post-trying-to-teach-freshmen-robotics-2",
+      
+        title: "Trying to Teach Freshmen Robotics 2",
+      
+      description: "My introduction to robotics for a few undergrad freshmen",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/trying-to-teach-freshmen-robotics-2/";
+        
+      },
+    },{id: "post-a-project-on-the-gfs",
       
         title: "A project on the GFS",
       
