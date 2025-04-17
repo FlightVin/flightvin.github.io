@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "resume",
-          description: "With a few salient points on my experience and selected projects (Last Updated - December &#39;24).",
+          description: "With a few salient points on my experience and selected projects (Last Updated - Arpil &#39;25).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
