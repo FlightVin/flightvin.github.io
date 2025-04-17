@@ -17,9 +17,9 @@ social: true # includes social icons at the bottom of the page
 
 A Final-year CS Undergrad at [IIIT Hyderabad](https://csrankings.org/#/index?ai&vision&nlp&inforet&comm&mobile&metrics&chi&robotics&bed&visualization&in) and an ex-intern at [D.E. Shaw and Co.](https://www.deshaw.com/)
 
-Things that pique my interest are  
-*Good old Foundation Models, Robotics, Software Arch and Distributed Systems*  
-*With a teeny-tiny bit of AI safety these days.*  
+I've found that the best way to present my undergrad is that I've explored extensively (*read: dabbled*) across *Systems* and *ML* -  
+I've built projects around software & distributed systems as well as foundation models (Robotics, AI Safety, Computer Vision).  
+What are my plans now? I'll update the narrative once I start my job :)  
 
-And, I’m always open to new things  
+I’m always open to new things  
 (Industry & Academic collabs, Fantasy Novels, Philosophy?)
