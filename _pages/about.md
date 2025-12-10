@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! I'm Vineeth. I'm intersted in building intelligent systems we can trust.
 
-I recently graduated from [IIIT Hyderabad](https://www.iiit.ac.in/) (July, 2025) and currently work as a Software Engineer at [Stripe](https://stripe.com/).
+I recently graduated from [IIIT Hyderabad](https://www.iiit.ac.in/) (July, 2025) and currently work as a Software Engineer.
 
 My research background spans Robotics and AI Safety. My trajectory—from classical SLAM through learned policies to interpretability—positions me uniquely to bridge control theory and foundation model research.
 
